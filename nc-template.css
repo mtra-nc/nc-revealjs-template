@@ -1,0 +1,19 @@
+body {
+    background-image: url('logo.png');
+    background-repeat: no-repeat;
+    background-position: left 10px bottom 10px;
+    background-size: 15%;
+}
+
+.reveal {
+    color: #0F2047 !important;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+    color: #0F2047 !important;
+}

@@ -1,0 +1,14 @@
+= nc-revealjs-template
+Template for pretty asciidoctor + revealjs presentations 
+
+== Usage
+=== Windows
+
+To create `html` from `.adoc` file run the following command:
+
+[source]
+----
+asciidoctor-revealjs-win.exe -a revealjsdir=https://cdn.jsdelivr.net/npm/reveal.js@3.9.2 FILE_NAME.adoc
+----
+
+`asciidoctor-revealjs-win.exe` executable can be found https://github.com/asciidoctor/asciidoctor-reveal.js/releases[here].

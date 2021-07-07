@@ -1,0 +1,32 @@
+= PI outcome QA and Demo 
+:revealjs_theme: white
+:icons: font
+:revealjs_slideNumber: c/t
+:revealjs_controls: false
+:customcss: nc-template.css
+
+== But first
+
+WARNING: This presentation is dangerous!
+
+== Slide One
+
+The hail-and-rainbow protocol can be initiated at three levels:
+
+. doublefootnote:[The double hail-and-rainbow level makes my toes tingle.]
+. tertiary
+. apocalyptic
+
+A bold statement!footnote:disclaimer[Opinions are my own.]
+
+Another outrageous statement.footnote:disclaimer[]
+
+== Slide Two
+
+A Great Story
+
+[.notes]
+--
+* tell anecdote
+* make a point
+--
